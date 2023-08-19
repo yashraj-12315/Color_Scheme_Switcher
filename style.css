@@ -1,0 +1,27 @@
+body {
+  text-align: center;
+}
+.canvas {
+  display: flex;
+  gap: 5px;
+  margin-left: 360px;
+  flex-direction: row;
+}
+.button {
+  padding: 10px;
+  border: 1px solid #1e1414;
+  height: 100px;
+  width: 100px;
+}
+#grey {
+  background-color: grey;
+}
+#white {
+  background-color: white;
+}
+#blue {
+  background-color: blue;
+}
+#yellow {
+  background-color: yellow;
+}
